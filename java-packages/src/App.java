@@ -1,3 +1,5 @@
+import vehicle.Car;
+
 /*Package in Java is a mechanism to encapsulate a group of classes, sub packages and interfaces. 
   
 Packages are used for:
@@ -9,6 +11,6 @@ Packages can be considered as data encapsulation (or data-hiding).
 
 public class App {
 	public static void main(String[] args) {
-
+		Car car = new Car();
 	}
 }
