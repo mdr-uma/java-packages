@@ -1,5 +1,5 @@
 import vehicle.Car;
-import vehicle.Truck;
+import vehicle.selfdrive.Truck;
 
 /*Package in Java is a mechanism to encapsulate a group of classes, sub packages and interfaces. 
   
